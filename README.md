@@ -26,10 +26,5 @@ Page -34
 CHAPTER 3
 
 
-https://www.pluralsight.com
-https://mmtwave.com/2017/08/ssh-%e1%80%80%e1%80%ad%e1%80%af-password-%e1%80%99%e1%80%9e%e1%80%b6%e1%80%af
-%e1%80%b8%e1%80%95%e1%80%b2-key-%e1%80%bb%e1%80%96%e1%80%84%e1%80%b9%e1%80%b7-login-%e1%80%9d%e1%80%84%e1%80%b9%e1%80%94/
-
-
 
 
